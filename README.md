@@ -8,6 +8,8 @@ deploy within anaconda and jupyterlab
 
 ## homework
 
+https://cilab.nuu.edu.tw/
+
 Homework I: concerto-sonata
 
 Homework II: ritardando-diminuendo
